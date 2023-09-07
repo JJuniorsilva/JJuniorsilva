@@ -1,6 +1,6 @@
 ### Hi there :pencil:
 
-Sou o JJunior,Sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Sou o JJunior, Sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
