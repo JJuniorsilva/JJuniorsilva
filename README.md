@@ -14,5 +14,5 @@ Sou o JJunior,Sou um Programador Front End, atualmente estou aprendendo e criand
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuniorsilva)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![](https://komarev.com/ghpvc/?username=jjuniorsilva-github-jjuniorsilva)
+   ![](https://komarev.com/ghpvc/?username=jjuniorsilva-github-jjuniorsilva)
 
